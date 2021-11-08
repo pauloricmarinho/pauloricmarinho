@@ -1,27 +1,27 @@
 ### 💻👨🚀 Paulo  Marinho 
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
-[![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](http://medium.com/pauloricmarinho)
-![](https://img.shields.io/badge/Stack_Overflow-FE7A16?flat&logo=stack-overflow&logoColor=white)
-![](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white)
-![](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardomarinho/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pauloricmarinho)
+[![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](http://pauloricmarinho.medium.com)
+[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13831071/paulo-r-marinho)
+[![](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/pauloricmarinho)
+[![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white)](https://bitbucket.org/pauloricmarinho)
+[![](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/pauloricmarinho)
 
 <!-- BACKEND SKILLS -->
-![#](https://img.shields.io/badge/Backend-Skills-brightgreen?style=for-the-badge&logo=xrp&logoColor=white)
+[![#](https://img.shields.io/badge/Backend-Skills-brightgreen?style=for-the-badge&logo=xrp&logoColor=white)]()
 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java)
-![](https://img.shields.io/badge/-Spring_Framework-brightgreen?style=flat&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
-![](https://img.shields.io/badge/-Struts-blue?style=flat&logo=Apache)
-![](https://img.shields.io/badge/-Maven-red?style=flat&logo=Apache&logoColor=white)
-![](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/WS-Soap-00599C?style=flat)
-![](https://img.shields.io/badge/WS-REST-ff1709?style=flat)
-![](https://img.shields.io/badge/-Apache_CXF-red?style=flat&logo=Apache)
+[![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
+[![](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java)]()
+[![](https://img.shields.io/badge/-Spring_Framework-brightgreen?style=flat&logo=Spring&logoColor=white)]()
+[![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)]()
+[![](https://img.shields.io/badge/-Struts-blue?style=flat&logo=Apache)]()
+[![](https://img.shields.io/badge/-Maven-red?style=flat&logo=Apache&logoColor=white)]()
+[![](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)]()
+[![](https://img.shields.io/badge/WS-Soap-00599C?style=flat)]()
+[![](https://img.shields.io/badge/WS-REST-ff1709?style=flat)]()
+[![](https://img.shields.io/badge/-Apache_CXF-red?style=flat&logo=Apache)]()
 
 
 <!-- DEVOPS SKILLS -->
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ### 💻 Olá, Bem Vindo! 👋
 
-Pós Graduado em Engenheira de Software, Analista de Sistemas, Desenvolvedor Java desde 2012.
+Pós Graduado em Engenheira de Software, Analista de Sistemas, Desenvolvedor Java desde 2012 e atualmente atuo com Desenvolvimento e Sustentação de Sistemas Desenvolvidos em Java (Spring Framework, Struts 2,JPA, Hibernate, JDBC Template e IBM Websphere), Web Services (SOAP e REST), além de Integrações de Aplicações SOAP, EJB, COBOL CICS e IBM MQ. Tenho Perfil Extremamente Técnico, adoro Desenvolver Soluções que agreguem valor ao Projeto ou Sistema. Procuro sempre me manter atualizado sobre as novas tecnologias de desenvolvimento, Cultura DevOps, Clouds e APIs. Além de Programação Gosto Bastante de Ler de Artigos de Tecnologias, Mitologia Nórdica até HQs da Marvel ou DC, além de gostar bastante de viajar e conhecer novos lugares.     
 
 **Formação**
 
@@ -140,7 +140,3 @@ Pós Graduado em Engenheira de Software, Analista de Sistemas, Desenvolvedor Jav
 
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
-**Perfis Pessoais**
-
-
