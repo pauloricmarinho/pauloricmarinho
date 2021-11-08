@@ -1,4 +1,4 @@
-### 💻👨🚀 Paulo  Marinho 
+### 💻👨🚀 Paulo  Marinho ![](https://img.shields.io/badge/-D14836?style=flate&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/-blue?style=flat&logo=skype&logoColor=whit)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardomarinho/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pauloricmarinho)
@@ -13,15 +13,15 @@
 [![](https://img.shields.io/badge/Backend-Skills-brightgreen?style=for-the-badge&logo=xrp&logoColor=white)](https://github.com/pauloricmarinho)
 
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/pauloricmarinho)
-[![](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java)]()
-[![](https://img.shields.io/badge/-Spring_Framework-brightgreen?style=flat&logo=Spring&logoColor=white)]()
-[![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)]()
-[![](https://img.shields.io/badge/-Struts-blue?style=flat&logo=Apache)]()
-[![](https://img.shields.io/badge/-Maven-red?style=flat&logo=Apache&logoColor=white)]()
-[![](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)]()
-[![](https://img.shields.io/badge/WS-Soap-00599C?style=flat)]()
-[![](https://img.shields.io/badge/WS-REST-ff1709?style=flat)]()
-[![](https://img.shields.io/badge/-Apache_CXF-red?style=flat&logo=Apache)]()
+[![](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/-Spring_Framework-brightgreen?style=flat&logo=Spring&logoColor=white)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/-Struts-blue?style=flat&logo=Apache)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/-Maven-red?style=flat&logo=Apache&logoColor=white)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/WS-Soap-00599C?style=flat)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/WS-REST-ff1709?style=flat)](https://github.com/pauloricmarinho)
+[![](https://img.shields.io/badge/-Apache_CXF-red?style=flat&logo=Apache)](https://github.com/pauloricmarinho)
 
 
 <!-- DEVOPS SKILLS -->
@@ -43,11 +43,8 @@
 ![](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 
-![prmarinho](https://github-readme-stats.vercel.app/api?username=pauloricmarinho)![prmarinho](	https://github-readme-streak-stats.herokuapp.com/?user=pauloricmarinho)
-
-![prmarinho](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricmarinho)
-
-
+![prmarinho](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricmarinho)   ![prmarinho](https://github-readme-stats.vercel.app/api?username=pauloricmarinho)
+![prmarinho](https://github-readme-streak-stats.herokuapp.com/?user=pauloricmarinho)
 
 <!--
 **pauloricmarinho/pauloricmarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
