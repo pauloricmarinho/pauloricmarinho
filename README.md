@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-white?style=for-the-badge&logo=skype&logoColor=blue)](skype:pauloricmarinho?call)
 [![](https://img.shields.io/badge/-white?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/5521987682622)
 [![](https://img.shields.io/badge/-white?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/pauloricmarinho)
-[![](https://img.shields.io/badge/-white?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/PRMarinho)
+[![](https://img.shields.io/badge/-white?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/PRMarinho#2731)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardomarinho/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pauloricmarinho)
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### 💻 Olá, Bem Vindo! 👋
 
-> 🚀💬 Pós Graduado em Engenheira de Software, Analista de Sistemas, Desenvolvedor Java desde 2012 e atualmente atuo com Desenvolvimento e Sustentação de Sistemas Desenvolvidos em Java (Spring Framework, Struts 2,JPA, Hibernate, JDBC Template e IBM Websphere), Web Services (SOAP e REST), além de Integrações de Aplicações SOAP, EJB, COBOL CICS e IBM MQ. Tenho Perfil Extremamente Técnico, adoro Desenvolver Soluções que agreguem valor ao Projeto ou Sistema. Procuro sempre me manter atualizado sobre as novas tecnologias de desenvolvimento, Cultura DevOps, Clouds e APIs. Além de Programação Gosto Bastante de Ler de Artigos de Tecnologias, Mitologia Nórdica até HQs da Marvel ou DC, Assistir Séries, Ouvir Podcats, Filmes e Documentários, Além de gostar bastante de viajar e conhecer novos lugares.     
+> 🚀💬 Pós Graduado em Engenheira de Software, Analista de Sistemas, Desenvolvedor Java desde 2012 e atualmente atuo com Desenvolvimento e Sustentação de Sistemas Desenvolvidos em Java (Spring Framework, Struts 2,JPA, Hibernate, JDBC Template e IBM Websphere), Web Services (SOAP e REST), além de Integrações de Aplicações SOAP, EJB, COBOL CICS e IBM MQ. Tenho Perfil Extremamente Técnico, adoro Desenvolver Soluções que agreguem valor ao Projeto ou Sistema. Procuro sempre me manter atualizado sobre as novas Tecnologias de Desenvolvimento, Cultura DevOps, Clouds e APIs. Além de Programação Gosto Bastante de Ler de Artigos sobre Tecnologias, Livros Técnicos, Mitologia Nórdica, HQs da Marvel ou DC, Assistir Séries, Ouvir Podcats, Filmes e Documentários, além de gostar bastante de viajar e conhecer Novos Lugares.     
 
 **Formação**
 
