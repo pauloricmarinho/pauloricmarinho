@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardomarinho/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pauloricmarinho)
 [![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](http://pauloricmarinho.medium.com)
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/pauloricmarinho)
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13831071/paulo-r-marinho)
 [![](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/pauloricmarinho)
 [![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/pauloricmarinho)
