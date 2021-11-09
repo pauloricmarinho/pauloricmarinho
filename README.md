@@ -146,9 +146,10 @@ Here are some ideas to get you started:
 
 
 <div align="center" style="float:center;">
-<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/java.png" style="padding:5px;" width="80px">
 <img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/javascript.svg" style="padding:5px;" width="60px"> 
-<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/spring.svg" style="padding:5px;" width="60px"> 
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/java.png" style="padding:5px;" width="80px">
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/struts.jpg" style="padding:5px;" width="80px"> 
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/spring.svg" style="padding:5px;" width="80px"> 
 <img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/spring-boot.png" style="padding:5px;" width="80px">
 <img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/docker.svg" style="padding:5px;" width="80px">
 <img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/git.svg" style="padding:5px;" width="60px">
