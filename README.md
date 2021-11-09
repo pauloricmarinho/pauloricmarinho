@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 **Formação**
 
 - 🎓📚 MIT Engenharia de Software Java (MBA - INFNET - 2021)
-- 🎓📚 Bacharelado Sistemas de Informação ( UNIGRARIO - 2012 )
+- 🎓📚 Bacharelado Sistemas de Informação ( UNIGRANRIO - 2012 )
 - 🎓📚 Técnico em Informática ( FLAMA - 2007 )
 
 
@@ -143,3 +143,15 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+
+<div align="center" style="float:center; height:150px;">
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/java.png" style="padding:5px;" width="80px">
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/javascript.svg" style="padding:5px;" width="60px"> 
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/spring.svg" style="padding:5px;" width="60px"> 
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/spring-boot.png" style="padding:5px;" width="100px">
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/docker.svg" style="padding:5px;" width="80px">
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/git.svg" style="padding:5px;" width="60px">
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/mysql.svg" style="padding:5px;" width="60px">
+<img src="https://raw.githubusercontent.com/pauloricmarinho/pauloricmarinho/master/icons/python.png" style="padding:5px;" width="120px">
+</div>
