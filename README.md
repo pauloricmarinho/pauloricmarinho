@@ -1,4 +1,9 @@
-### 💻👨🚀 Paulo  Marinho ![](https://img.shields.io/badge/-D14836?style=flate&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/-blue?style=flat&logo=skype&logoColor=whit)
+### 💻👨🚀 Paulo  Marinho  
+[![](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pauloricmarinho@gmail.com)
+[![](https://img.shields.io/badge/-white?style=for-the-badge&logo=skype&logoColor=blue)](skype:pauloricmarinho?call)
+[![](https://img.shields.io/badge/-white?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/5521987682622)
+[![](https://img.shields.io/badge/-white?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/pauloricmarinho)
+[![](https://img.shields.io/badge/-white?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/PRMarinho)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardomarinho/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pauloricmarinho)
