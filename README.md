@@ -49,7 +49,7 @@
 ![](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 
-![prmarinho](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricmarinho)   ![prmarinho](https://github-readme-stats.vercel.app/api?username=pauloricmarinho)
+![prmarinho](https://github-readme-stats.vercel.app/api?username=pauloricmarinho) ![prmarinho](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricmarinho&layout=compact) 
 ![prmarinho](https://github-readme-streak-stats.herokuapp.com/?user=pauloricmarinho)
 
 <!--
